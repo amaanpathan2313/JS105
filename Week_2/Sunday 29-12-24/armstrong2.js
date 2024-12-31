@@ -1,4 +1,4 @@
 
 function armstrong(){
-    
+   let kkk
 }
