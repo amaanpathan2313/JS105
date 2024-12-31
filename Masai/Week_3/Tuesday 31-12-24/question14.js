@@ -19,7 +19,7 @@ function starPrint(N) {
     // --------------
 
     i = 1;
-    while (i < N) {
+    while (i < N-1) {
         console.log("*");
         i++;
     }
